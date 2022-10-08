@@ -4,5 +4,6 @@
 
 # Installation command:
 Open the folder in terminal and run the following commands in that:
+#Code
         npm install
         npm start
